@@ -2,7 +2,6 @@ import * as Dialog from "@radix-ui/react-dialog";
 import { formatDistanceToNow } from "date-fns";
 import { ptBR } from "date-fns/locale";
 import { X } from "lucide-react";
-import { toast } from "sonner";
 
 interface NoteCardProps {
   note: {
