@@ -23,10 +23,12 @@ dist-ssr
 *.sln
 *.sw?
 
+.gitignore
 package.json
+package-lock-json
+tsconfig.json 
+tsconfig.node.json
 postcss.config.js 
 tailwind.config.js 
-tsconfig.json 
 vite.config.ts
 vite-env.d.ts 
-
