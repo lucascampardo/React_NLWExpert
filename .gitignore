@@ -24,6 +24,7 @@ dist-ssr
 *.sw?
 
 .gitignore
+gitignore
 package.json
 package-lock-json
 tsconfig.json 
